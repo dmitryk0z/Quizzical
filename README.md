@@ -5,7 +5,7 @@ Player is asked to answer all questions by selecting one of the corresponding an
 
 #### Branches: 
 - *src* - used to store Quizzical source code.
-- *deploy-quizzical* - used to deploy Quizzical on GitHub Pages.
+- *deploy-quizzical* - used to deploy [Quizzical on GitHub Pages](https://dmitryk0z.github.io/Quizzical/).
 
 #### Framework: 
 - *React.js*
