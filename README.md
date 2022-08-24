@@ -1,3 +1,3 @@
-## Welcome to My JavaScript Repository!
+## Quizzical (Completed - 29/07/2022)
 
-Here you will find my JavaScript projects (completed or in progress).
+Quizzical is an online quiz 
